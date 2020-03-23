@@ -1,5 +1,6 @@
 # kubetrail
 …or create a new repository on the command line
+
 echo "# kubetrail" >> README.md
 git init
 git add README.md
